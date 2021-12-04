@@ -5,4 +5,5 @@
 ### git clone https://github.com/PachonJulian/hello_build_api
 ### cd hello_build_api
 ### npm install 
+### npm install sails -g
 ### sails lift
